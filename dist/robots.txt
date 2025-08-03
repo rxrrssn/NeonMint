@@ -1,0 +1,7 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://rxrrssn.github.io/sitemap-index.xml
+
+
