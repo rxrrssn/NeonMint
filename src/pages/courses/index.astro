@@ -1,0 +1,22 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Hero from "../../components/courses/Hero.astro";
+import Tags from "../../components/courses/Tags.astro";
+import ListPosts from "../../components/courses/ListPosts.astro";
+const pageTitle = "Portfolio | TJH ";
+const description = "Welcome to the portfolio for Travis James Hornbuckle, a psychology student and Program Associate with a passion in web design and airplaens!";
+const ogimage ={
+    url: "/images/blogimage.webp",
+    alt: "EFEELE.dev logo with green background and light effect. Text: 'Web Development and Technology Blog' and URL 'www.efeele.dev'."
+};
+---
+
+<Layout  pageTitle={pageTitle} description={description} ogimage={ogimage}>
+   
+    <Hero />
+    <Tags />
+    <div class="px-8 max-sm:px-4">
+        <ListPosts />
+    </div>
+
+</Layout>

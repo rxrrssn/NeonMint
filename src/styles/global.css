@@ -9,29 +9,29 @@
   --font-roboto: 'Roboto', sans-serif;
   --font-opensans: 'Open Sans', sans-serif;
   --color-blacktext: #171717;
-  --color-mint-50: #ecfdf5;
-  --color-mint-100: #d0fbe5;
-  --color-mint-200: #a4f4cf;
-  --color-mint-300: #6ce9b7;
-  --color-mint-400: #31d69a;
-  --color-mint-500: #0dbc82;
-  --color-mint-600: #03986a;
-  --color-mint-700: #027a58;
-  --color-mint-800: #056047;
-  --color-mint-900: #054f3c;
-  --color-mint-950: #012d22;
+  --color-mint-50: #335cff;
+  --color-mint-100: #1a47ff;
+  --color-mint-200: #0033ff;
+  --color-mint-300: #0029cc;
+  --color-mint-400: #0024b3;
+  --color-mint-500: #0021a5;
+  --color-mint-600: #001f99;
+  --color-mint-700: #001f99;
+  --color-mint-800: #001a80;
+  --color-mint-900: #001466;
+  --color-mint-950: #000f4d;
 
-  --color-riptide-50: #f0fdfa;
-  --color-riptide-100: #cbfcf1;
-  --color-riptide-200: #96f7e4;
-  --color-riptide-300: #5cecd5;
-  --color-riptide-400: #2bd6c1;
-  --color-riptide-500: #12baa8;
-  --color-riptide-600: #0b9689;
-  --color-riptide-700: #0e776f;
-  --color-riptide-800: #105f5a;
-  --color-riptide-900: #124f4b;
-  --color-riptide-950: #03302f;
+  --color-riptide-50: #fdb09b;
+  --color-riptide-100: #fc9d82;
+  --color-riptide-200: #fc8969;
+  --color-riptide-300: #fb7550;
+  --color-riptide-400: #fb6237;
+  --color-riptide-500: #fa4616;
+  --color-riptide-600: #fa3a05;
+  --color-riptide-700: #e13405;
+  --color-riptide-800: #c82f04;
+  --color-riptide-900: #af2904;
+  --color-riptide-950: #962303;
 
   --animate-rotate: rotate 10s linear infinite;
 
@@ -57,11 +57,11 @@
 	border-radius: 20px;
 }
 .dark *{
-	scrollbar-color: #6ce9b7 #012d22;
+	scrollbar-color: #fa4616 #012d22;
 	scrollbar-width: thin;
 }
  *{
-	scrollbar-color: #6ce9b7 #d0fbe5;
+	scrollbar-color: #fa4616 #012d22;
 	scrollbar-width: thin;
 	box-sizing: border-box;
 }
@@ -247,7 +247,7 @@ a.inline-block.leading-5.pl-12{
 
 
 .blur-circle {
-	background-color: rgba(87, 253, 228, 0.29);
+	background-color: rgba(250,70,22);
 	position: absolute;
 	width: 200px;
 	height: 200px;
@@ -264,7 +264,7 @@ a.inline-block.leading-5.pl-12{
 	display: block;
 	width: 500px;
 	height: 500px;
-	background: #50fd8f25 !important;
+	background: #fa4616 !important;
 	bottom: -150px;
 	right: -150px;
 	position: absolute;

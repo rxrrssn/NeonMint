@@ -1,8 +1,8 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'NeonMint'
-pubDate: 2025-04-05
-description: 'NeonMint is a modern, minimalist template crafted for developers and digital creatives.'
+title: 'My Portfolio'
+pubDate: 2025-07-30
+description: 'Portfolio site for Travis James Hornbuckle'
 languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
 image:
   url: "/images/projects/neonmint.webp"

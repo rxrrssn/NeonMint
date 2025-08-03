@@ -7,11 +7,13 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://neonmint.efeele.dev",
+  site: "https://rxrrssn.github.io",
   integrations: [preact(), icon(), sitemap({
     filter: (page) =>
       !page.includes("/blog/tags") &&
-      !page.includes("/blog/techs"),
+      !page.includes("/blog/techs")&&
+      !page.includes("/courses/tags")&&
+      !page.includes("/courses/techs"),
   }),],
 
   vite: {
