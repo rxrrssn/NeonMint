@@ -25,6 +25,3 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
-
-
-n2m.ts
