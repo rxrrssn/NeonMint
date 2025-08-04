@@ -5,11 +5,11 @@ pubDate: 2025-07-30
 description: 'Portfolio site for Travis James Hornbuckle'
 languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
 image:
-  url: "/images/projects/logo.svg"
-  alt: "Thumbnail of the TJH logo."
+  url: "/images/projects/neonmint.webp"
+  alt: "Thumbnail of Astro arches."
 --- 
 
-My portfolio is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
+**NeonMint** is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
 
 Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on speed, modularity, and a component-centered architecture.
 
@@ -29,3 +29,15 @@ Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on sp
 - TailwindCSS
 - HTML5
 - JavaScript
+
+
+## 🌐 Demo
+
+👉 [View live demo](https://github.com/EFEELE/NeonMint) 
+
+## 🎯 Objective
+
+The purpose of NeonMint is to combine style and functionality in a clean interface that enhances content without overwhelming the user. It's an exercise in design and development focused on visual detail and user experience.
+
+
+🚀 *Developed by EFEELE.*

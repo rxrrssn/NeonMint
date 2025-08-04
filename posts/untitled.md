@@ -1,16 +1,17 @@
 ---
-layout: /src/layouts/NotionImport.astro
-pubDate: "2025-05-19"
-author: "Travis James Hornbuckle"
-tags: ["242ec611-6e24-8095-b0cb-d8e3aadd8daf"]
-languages: ["242ec611-6e24-80fd-ba85-d71e357e97e4"]
-cGPA: null
-pGPA: null
-progress: null
-image: 
-    URL:"https://prod-files-secure.s3.us-west-2.amazonaws.com/2b7ec611-6e24-816d-b9d5-000306239ba9/927c14e0-08f5-4ab5-a6a5-630eb48cc214/ANTH1020.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VH5J3YP6%2F20250803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250803T110117Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCEWsZCda0BAUrmC7yiAAtTYAJUiJpbfjNBNFFeCL16hAIhANGGkETP7N4u1bxVE8xvImiORcVJCX4DX5Gv%2Fy4%2Bb6G%2BKv8DCCkQABoMNjM3NDIzMTgzODA1Igy57c0WNAW98v5GNBIq3AO95iLhkJm92wI6xYqz5xatAk1GQ%2Fb%2Brodc3ZtUqqnMqkitTr1RSjz3HCl9nDLBCYP7jgWkTZ%2BQ4gaJyiphb567b6%2FFlu%2BXiw7mtnjQAvM5n%2BJuMTBKJmANKnV%2FxBZH8VwtkWSdEORtqTvYIjCgHg9WHpJfcXP%2FW3DBeptodR2J0vKLpvTFkXNL%2BDEsiYVsuq7GrMWN4BGkKz08Jcf9x68PQnRGaTWe3y2W8ZdDZQOChEiOgsymneq29cMZiD8FfP%2FUgXqhZ7Pt2BsIda5mJeC45WKAn052%2FuhTNQcwPNRrPof0OrxfsH%2BSaLYSRLqiEa%2FkVSgNCYsx6w3OMopLyuPlSNtSSTcUmqMiLU3wo93OiT3WWaaXALtC5K7PcslhTz9UlxlO7c9PtUwX6hRI%2FoYxI32i%2FTk%2Bp2q8h3mEhOC9Db9h1BtBuMXfW2acLgQUE2wEgTKTkQxwzfFIhPYyFS0sF1CGpkhQ%2Br%2BC9dHJMfqwgMuwN4ODgdiGsx8sBjm737uOUNDmyOFjQKGXK6%2BuFZa%2FqlUw7f3aVFHb1FYjU0hbC6ICRJDrxqwQxuvXHZPjy2ZRGRN4r%2BjrwAPgNLZwn6%2FuqF6YSnUFql1AbsayAIF2j5s2HUfdJY8ABr%2B6czCcprzEBjqkAR%2BNq%2BV2VGvymyWFpc9MtZx47eMCXn6WqPcJAmMJK14nGg0%2FW7VtUwuhrYm2f6D%2BH9MgSvfc06LYAWkvRsdNXSko%2Fw%2FFjuDsoBhoBmqyFEsXkUT4AlWaJYtV%2FJ5wsAHP76JT6e0mGFUj9lO%2F8IeiS6ZAEMX%2Bdyn8Bh0GSRBrKU%2FSZY%2B8dDPscqs9NDO%2BlDlbU0lwjeaL0O%2B25F3y47hTodZnkmE%2F&X-Amz-Signature=1f2c74e9de24eebded4a9c983050d638e92bf5cb655278bbb35c3b1043737858&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
-title: "Human Origins: Diversity and Evolution (ANTH1020)"
+title: "Untitled"
+description: ""
+pubDate: ""
+tags: []
+languages: []
+author: "Unknown"
+image:
+  url: "https://prod-files-secure.s3.us-west-2.amazonaws.com/2b7ec611-6e24-816d-b9d5-000306239ba9/927c14e0-08f5-4ab5-a6a5-630eb48cc214/ANTH1020.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663JZXQOVL%2F20250803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250803T104952Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGBkUCZDQj%2BjuCY5D4opzbkqJmU3G0FE%2BGMw%2B8a9Rb2QAiEAyXTrnRgB9sta%2FdUK3wHI0M2DC97%2BWbmpQgRQZWIJkwkq%2FwMIKRAAGgw2Mzc0MjMxODM4MDUiDFVpqu638X4nTsjziSrcAxZa5CQNIxDb6GmKAKmXMWburx1C4Kkf9GTWlzPnANNi64WRVrSITzgN6lkZwoE0DGQejO%2F%2BwG9Tivq4u7XdsnU%2FiS0rUt9hveX2812F%2FQLh9V2bhhlyfr9ylgl8L8v6JUMIrvMS5zueKbIh6TwiK3W%2BIgdAPxI0S7IG6GUPZ4z%2F9QbQNE9hs9MmPIhgS6wzYmA%2FER%2Bh%2B8yntjhC%2FRtXR%2B1qt4mnoYiruj9O8RlBbU9AN7tu1SLyl6CK016HdgldH9umGhekBSy4r0xlxCxQhE3HEYoW4D%2Bt4llrH8wQAukithqyXAdN7zxmwZ%2BEma%2BQZrGWDkNy%2B8Bkb%2Bq2t1LuvhUeMGDCTHq7oSt3fMQqP%2BqLoUe64g8xP4PAZTPlF309Ea68ot5iHAyVbjQB6IV3H%2BrHpCCUxdvpQUFTiHXmejoT5jy%2BcnshzciP30ctnmgaOojuOaUmwsl6I1IUoP8pZ8wXhtNz6sDbqa6VOEU%2FvLWs19nrz19rHapcgm7vNQ2J0EYXNzCMDvIjj1VSWcQzFQkOaa3g5y92fqgizgQhIFONp%2BxJ4366FshYxgToFboB43iFujDFf5TQGWwmz1A%2FY0efNEH3gbh9TyFsJqyZr8CWtaGV3cE7PgegSzVlMI%2BrvMQGOqUBbPkDE4qVLzvJiBcFa8Of%2FrwEnIdu9M8jtOnmf2ulBuE%2FB3t4oMccZRughTlYqUiA5efP%2FKvQVizoBT92B0OOFIbvMEGAZN5sn2BICVWWJdSgEb%2FxzWVvgww7j%2Bu%2FUMPFsAf7gK6DwvLi4PTQ1TyAqyWBuhbqYlT9rvUrqcrgw%2B4vQWeY%2BGdVT9rHdaSKziTe10zvavdwCUEG8YKTsW9gh%2Br0yWMV&X-Amz-Signature=ceff8cf8ac75f9b9ea062114873360172283422c417aa61b4b6adfa4950d8880&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+cGrade: 
+pGrade: 
+progress: 
 ---
+
 
 ## **📝 Course Description**
 
