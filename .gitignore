@@ -26,5 +26,5 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-
+# import from notion script
 n2m.ts
